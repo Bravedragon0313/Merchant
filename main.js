@@ -8743,10 +8743,10 @@ __webpack_require__.r(__webpack_exports__);
 
 var environment = {
     production: false,
-    GQL_ENDPOINT: 'http://localhost:5555/graphql',
-    GQL_SUBSCRIPTIONS_ENDPOINT: 'ws://localhost:5050/subscriptions',
-    SERVICES_ENDPOINT: 'http://localhost:5500',
-    HTTPS_SERVICES_ENDPOINT: 'https://localhost:5501',
+    GQL_ENDPOINT: 'http://35.180.39.144:5555/graphql',
+    GQL_SUBSCRIPTIONS_ENDPOINT: 'ws://35.180.39.144:5050/subscriptions',
+    SERVICES_ENDPOINT: 'http://35.180.39.144:5500',
+    HTTPS_SERVICES_ENDPOINT: 'https://35.180.39.144:5501',
     APP_VERSION: '0.2.0',
     API_FILE_UPLOAD_URL: 'https://api.cloudinary.com/v1_1/evereq/upload',
     DEFAULT_LOGIN_USERNAME: 'hut_pizza',
